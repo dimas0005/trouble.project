@@ -8,4 +8,4 @@ Setelah saya cek ulang ternyata Error tersebut hanya salah penamaan file gambar 
 ![Bukti Permasalahan](images/gambar-2.jpg)
 Kemudian saya ubah file gambar yang sudah sesuai 
 ![Bukti Permasalahan](images/gambar-4.jpg)
-Setelah saya ubah codingannya,Setelah saya Klik gambar nya maka gambar yang jelas akan muncul seperti gambar di atas
+Setelah saya ubah codingannya,Setelah saya Klik gambar nya maka gambar yang jelas akan muncul seperti gambar di atas.
